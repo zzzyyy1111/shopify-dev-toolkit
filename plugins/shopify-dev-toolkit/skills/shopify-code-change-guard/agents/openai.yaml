@@ -1,0 +1,6 @@
+interface:
+  display_name: "Shopify 代码修改守卫"
+  short_description: "限制本地主题修改范围，记录差异并保护现有功能与全局样式"
+  default_prompt: "Use $shopify-code-change-guard to safely modify this local Shopify theme."
+policy:
+  allow_implicit_invocation: true

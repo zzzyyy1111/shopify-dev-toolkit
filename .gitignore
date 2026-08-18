@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
+.shopify/
+.theme-check/
+reports/
+screenshots/

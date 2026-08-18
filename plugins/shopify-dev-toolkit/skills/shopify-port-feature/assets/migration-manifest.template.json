@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "migration_id": "",
+  "feature_spec": "",
+  "source_theme": "",
+  "target_theme": "",
+  "remote_context": {
+    "source_store": "",
+    "source_theme_id": "",
+    "source_role_verified": "",
+    "target_store": "",
+    "target_theme_id": "",
+    "target_role_verified": ""
+  },
+  "baseline_ref": "HEAD",
+  "allowed_create": [],
+  "allowed_modify": [],
+  "protected_files": [
+    "config/settings_data.json"
+  ],
+  "protected_patterns": [
+    "routes.cart",
+    "Shopify.PaymentButton"
+  ],
+  "invariants": [],
+  "mapping": [],
+  "required_tests": [],
+  "manual_steps": [],
+  "unresolved_risks": [],
+  "approved": false
+}

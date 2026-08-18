@@ -1,0 +1,6 @@
+interface:
+  display_name: "Shopify 多语言检查助手"
+  short_description: "检查 Shopify 多语言缺失键、占位符和跨语言结构差异"
+  default_prompt: "Use $shopify-locale-audit to audit locale files in this Shopify theme."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+{
+  "theme_id": "123456789",
+  "files": [
+    "assets/example.css",
+    "sections/example.liquid"
+  ],
+  "reviewed": false
+}

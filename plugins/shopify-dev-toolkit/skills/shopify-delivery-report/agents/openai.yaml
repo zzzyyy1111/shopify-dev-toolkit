@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 主题交付报告助手"
+  short_description: "汇总修改、依赖、测试、配置、限制和回滚信息用于交接"
+  default_prompt: "Use $shopify-delivery-report to prepare a Shopify theme handoff."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 性能预算守卫"
+  short_description: "监控资源体积增长并发现可能影响页面速度的性能回退"
+  default_prompt: "Use $shopify-performance-budget to check this theme against a performance budget."

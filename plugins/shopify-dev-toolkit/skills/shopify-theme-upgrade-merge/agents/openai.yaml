@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 主题版本升级助手"
+  short_description: "三方比较旧版、定制版和新版主题，安全规划升级合并"
+  default_prompt: "Use $shopify-theme-upgrade-merge to compare these Shopify theme versions safely."

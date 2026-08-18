@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "feature": {"id": "", "name": "", "description": ""},
+  "source": {"source_type": "local_theme", "theme_path": "", "reference_url": "", "observed_at": "", "seeds": [], "evidence": []},
+  "activation": {"conditions": [], "disabled_behavior": []},
+  "surfaces": [],
+  "behaviors": [],
+  "ui_states": [],
+  "data": {
+    "metafields": [],
+    "metaobjects": [],
+    "line_item_properties": [],
+    "cart_attributes": [],
+    "other": []
+  },
+  "localization": {"keys": [], "markets": [], "fallbacks": []},
+  "javascript": {"selectors": [], "events_in": [], "events_out": [], "network": [], "theme_editor": []},
+  "styling": {"root": "", "variables": [], "breakpoints": [], "global_dependencies": []},
+  "accessibility": [],
+  "external_dependencies": [],
+  "source_files": [],
+  "uncertainties": [],
+  "acceptance_tests": []
+}

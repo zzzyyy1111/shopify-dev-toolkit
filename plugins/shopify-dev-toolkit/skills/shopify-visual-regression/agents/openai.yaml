@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 视觉回归对比助手"
+  short_description: "对比修改前后页面截图，发现意外的布局、样式和响应式变化"
+  default_prompt: "Use $shopify-visual-regression to compare these Shopify theme previews."

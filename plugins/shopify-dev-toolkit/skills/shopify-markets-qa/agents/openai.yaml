@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Markets 检查助手"
+  short_description: "比较不同市场的语言、货币、商品、模板和跳转行为"
+  default_prompt: "Use $shopify-markets-qa to test this preview across selected markets."

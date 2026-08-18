@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify SEO 与结构化数据检查助手"
+  short_description: "检查技术 SEO、跨境索引和 JSON-LD 结构化数据问题"
+  default_prompt: "Use $shopify-seo-audit to audit this Shopify theme for SEO issues."

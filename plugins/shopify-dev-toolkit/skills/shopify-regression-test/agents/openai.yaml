@@ -1,0 +1,6 @@
+interface:
+  display_name: "Shopify 功能回归测试助手"
+  short_description: "自动验证商品、购物车、折扣、抽屉及移动端核心交互流程"
+  default_prompt: "Use $shopify-regression-test to test this Shopify Development Theme."
+policy:
+  allow_implicit_invocation: true

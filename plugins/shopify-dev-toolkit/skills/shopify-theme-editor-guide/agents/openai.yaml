@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Theme Editor 使用说明生成器"
+  short_description: "根据真实配置生成运营可读的主题编辑器设置和排错说明"
+  default_prompt: "Use $shopify-theme-editor-guide to create operating instructions for this theme feature."

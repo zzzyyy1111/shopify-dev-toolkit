@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 主题预览保护"
+  short_description: "安全创建或更新 Shopify 未发布主题，永久禁止发布和修改线上主题"
+  default_prompt: "使用 $shopify-theme-preview-guard 安全预览当前 Shopify 主题，不发布也不修改线上主题。"

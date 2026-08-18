@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Git 工作流助手"
+  short_description: "安全检查状态、管理任务分支和提交，并保护已有未提交修改"
+  default_prompt: "Use $shopify-git-workflow-guard to prepare a safe Git workflow for this theme."

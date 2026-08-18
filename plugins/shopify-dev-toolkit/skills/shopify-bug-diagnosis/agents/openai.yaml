@@ -1,0 +1,6 @@
+interface:
+  display_name: "Shopify Bug 定位助手"
+  short_description: "通过浏览器证据定位 Liquid、样式、脚本、应用或配置问题"
+  default_prompt: "Use $shopify-bug-diagnosis to diagnose this Shopify storefront issue safely."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Shopify 草稿主题同步助手"
+  short_description: "仅将审核后的文件安全同步到已验证的 Shopify 未发布主题"
+  default_prompt: "Use $shopify-draft-sync to safely sync reviewed files to an unpublished Shopify theme."
+policy:
+  allow_implicit_invocation: true

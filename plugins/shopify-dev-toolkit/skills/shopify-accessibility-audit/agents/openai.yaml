@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 无障碍检查助手"
+  short_description: "检查键盘、焦点、语义、标签、对比度和动态组件可访问性"
+  default_prompt: "Use $shopify-accessibility-audit to audit this Shopify preview for accessibility."

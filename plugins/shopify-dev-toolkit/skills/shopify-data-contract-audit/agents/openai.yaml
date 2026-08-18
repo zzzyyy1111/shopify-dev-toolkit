@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify 数据契约检查助手"
+  short_description: "提取 Metafield、Metaobject 和购物车数据依赖契约"
+  default_prompt: "Use $shopify-data-contract-audit to map theme data requirements."

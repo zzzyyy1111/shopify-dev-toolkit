@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify App 依赖检查助手"
+  short_description: "识别 App Block、外部脚本、数据结构和跨店迁移依赖"
+  default_prompt: "Use $shopify-app-dependency-audit to map app dependencies in this theme."
